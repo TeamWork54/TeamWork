@@ -1,2 +1,2 @@
 # TeamWork
-The repository for team work 
+Проект по совместной разработке системного монитора.
